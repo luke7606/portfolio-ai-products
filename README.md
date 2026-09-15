@@ -84,18 +84,11 @@ Every product starts from the same rules, documented and consistently applied:
 
 Alongside building these products, at DreamHost I lead infrastructure coordination and operational tooling as a Senior TPM — an inventory of 53,700+ servers, internal AI agents for ticket/report syncing, and migrating manual processes into automated workflows. That track shows the other half of the profile: enterprise execution at scale, not just independent product building.
 
-### Suggested structure for this repo
+### Repository structure
 
-```
+```text
 /portfolio-ai-products
 ├── README.md
-├── /case-studies
-│   ├── sentinel-platform.md
-│   ├── doppia-ai.md
-│   ├── architect-finn.md
-│   ├── nera-builder.md
-│   ├── pedix.md
-│   └── headhunting-system.md
 └── /diagrams
     └── shared-architecture.mmd
 ```
